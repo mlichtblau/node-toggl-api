@@ -212,7 +212,7 @@
     },
     "grouping":            {
       "type":    "enum",
-      "values":  ["projects", "clients", "users"],
+      "values":  ["projects", "clients", "users", "tags"],
       "default": "projects"
     },
     "subgrouping":         {
